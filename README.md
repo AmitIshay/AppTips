@@ -1,3 +1,3 @@
 # AppTips
-Android studio app - JAVA
-fgdf
+Android studio app - JAVA \n
+klhhl
